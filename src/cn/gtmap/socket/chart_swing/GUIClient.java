@@ -48,7 +48,7 @@ public class GUIClient {
                         ta.append(text+"\r\n");
                     } catch (Exception e) {
                         e.printStackTrace();
-                    }
+                    } 
                 }
   
             }
